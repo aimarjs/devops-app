@@ -9,7 +9,7 @@ class App extends Component {
           <h1>Devops test frontend application</h1>
         </header>
         <p className="App-intro">
-          <p>This is a test app</p>
+          This is a test app
         </p>
       </div>
     );
